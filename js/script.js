@@ -7,6 +7,7 @@ createApp({
         return {
             message: 'Come si chiama un cane husky non particolarmente bello? Un husky-fezza',
             imageSrc: ['img/husky.jpg'],
+            imgSize: 'img',
         }
     },
 }
